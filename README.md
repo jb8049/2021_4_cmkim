@@ -58,7 +58,7 @@
 
 ## 시연 동영상 
 
-<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=v5e0Nzi-6cw">
+<a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/watch?v=n-vYRwkgDJQ&t=12s">
 <img src="mainPage.JPG" style="width:800px;">
 </a><br>
 
